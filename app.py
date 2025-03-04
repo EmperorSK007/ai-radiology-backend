@@ -15,7 +15,7 @@ app.add_middleware(
 )
 
 # ✅ Replace with your OpenRouter API Key
-OPENROUTER_API_KEY = "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"
+OPENROUTER_API_KEY = "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"
 
 class ReportRequest(BaseModel):
     findings: str
