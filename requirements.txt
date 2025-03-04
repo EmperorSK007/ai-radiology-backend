@@ -11,7 +11,7 @@ argh==0.26.2
 argon2-cffi==21.3.0
 asn1crypto==1.5.1
 astor==0.8.1
-astroid @ file:///C:/ci/astroid_1613501047216/work
+astroid==2.15.6
 astropy @ file:///C:/ci/astropy_1617745647203/work
 astunparse==1.6.3
 async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
