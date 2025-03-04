@@ -8,7 +8,7 @@ anvil-uplink==0.3.39
 anyio==4.5.2
 appdirs==1.4.4
 argh==0.26.2
-argon2-cffi @ file:///C:/ci/argon2-cffi_1613037959010/work
+argon2-cffi==21.3.0
 asn1crypto @ file:///tmp/build/80754af9/asn1crypto_1596577642040/work
 astor==0.8.1
 astroid @ file:///C:/ci/astroid_1613501047216/work
